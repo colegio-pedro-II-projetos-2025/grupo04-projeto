@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\cadastroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\jogadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\jogadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|d:\\ds\\yugiohtrabalhowindowsforms\\yugiohtrabalhowindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91F9BF6-6EA5-47D9-BDFC-B2CB25C5D5C5}|YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj|solutionrelative:yugiohtrabalhowindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\Form1.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\Form1.cs",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:29:00.617Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\Jogador.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\Jogador.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\Jogador.cs",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\Jogador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:36:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbUtil.cs",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\DbUtil.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\DbUtil.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\DbUtil.cs",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\DbUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:31:50.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JogadorRepository.cs",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\JogadorRepository.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\JogadorRepository.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\JogadorRepository.cs",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\JogadorRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:29:21.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroForm.cs",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\CadastroForm.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\CadastroForm.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\CadastroForm.cs",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\CadastroForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:07:12.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadastroForm.cs [Projeto]",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\CadastroForm.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\CadastroForm.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\CadastroForm.cs [Projeto]",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\CadastroForm.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T22:01:10.248Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "YuGiOhTrabalhoWindowsForms\\Form1.cs",
+              "ToolTip": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\Form1.cs [Projeto]",
+              "RelativeToolTip": "YuGiOhTrabalhoWindowsForms\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:07:18.128Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

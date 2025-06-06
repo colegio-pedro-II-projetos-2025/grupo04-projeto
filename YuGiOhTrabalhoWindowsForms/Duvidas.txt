@@ -1,0 +1,15 @@
+Duvidas
+
+string email = txtEmail.Text.Trim();
+
+Como adicionar imagem no label sem texto
+
+Mudar cor do Button
+
+int(11)
+
+Seta pra cima e pra baixo
+
+Pop up erro
+
+Is installed as a Windows service?
