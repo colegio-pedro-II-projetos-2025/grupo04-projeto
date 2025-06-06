@@ -4,15 +4,13 @@
 
 ---
 
-## 👥 Participantes
+## 👥 Participante
 
-- ???
-- ???
-- ???
+- Thiago Leandro de Lira
 
 ---
 
 ## 🏫 Turma
-- ???
+- DS311
 - 3º ano – Desenvolvimento de Sistemas  
 - Colégio Pedro II – Campus São Cristóvão III
