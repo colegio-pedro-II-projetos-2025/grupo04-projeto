@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj": {}
+    "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj": {}
   },
   "projects": {
-    "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj": {
+    "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
+        "projectUniqueName": "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
         "projectName": "YuGiOhTrabalhoWindowsForms",
-        "projectPath": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
-        "packagesPath": "C:\\Users\\LABSC3\\.nuget\\packages\\",
-        "outputPath": "D:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\obj\\",
+        "projectPath": "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
+        "packagesPath": "C:\\Users\\lirat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LABSC3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lirat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

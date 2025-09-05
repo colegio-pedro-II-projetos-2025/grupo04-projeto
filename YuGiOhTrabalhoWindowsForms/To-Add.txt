@@ -1,0 +1,3 @@
+Knight/Extra Classes
+Case-sensitive
+Disable name 

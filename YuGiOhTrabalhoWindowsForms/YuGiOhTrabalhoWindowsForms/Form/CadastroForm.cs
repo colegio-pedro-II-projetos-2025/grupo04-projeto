@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using YuGiOhTrabalhoWindowsForms.Entidade;
+using YuGiOhTrabalhoWindowsForms.Util;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
@@ -37,19 +39,20 @@ namespace YuGiOhTrabalhoWindowsForms
                 return;
             }
 
-            /*if (senha.Length > 11) // Verificar com professor
+            if (nome.Length > 20)
             {
-                lblAviso.Text = "A senha deve ter menos de 12 caracteres.";
-                return;
-            }*/
-
-            if (senha != confirmarSenha)
-            {
-                lblAviso.Text = "As senhas não coincidem.";
+                lblAviso.Text = "! - Nome tem mais que 20 caracteres.";
                 return;
             }
 
-            JogadorRepository repo = new JogadorRepository(DbUtil.ConnectionString);
+
+            if (senha != confirmarSenha)
+            {
+                lblAviso.Text = "! - As senhas não coincidem.";
+                return;
+            }
+
+            JogadorRepository repo = new JogadorRepository(DbUtil.ConnectionString); //*
             Jogador novoJogador = new Jogador
             {
                 Nome = nome,
@@ -65,7 +68,12 @@ namespace YuGiOhTrabalhoWindowsForms
                 }
                 else
                 {
-                    lblAviso.Text = "Erro ao cadastrar.";
+                    if (linhas == -2)
+                    {
+                        lblAviso.Text = "! - Nome de usuário já existe.";
+                    }
+                    else
+                        lblAviso.Text = "Erro ao cadastrar.";
                 }
             }
             catch (Exception ex)
