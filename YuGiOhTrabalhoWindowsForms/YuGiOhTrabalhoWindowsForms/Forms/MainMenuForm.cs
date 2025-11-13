@@ -2,12 +2,14 @@
 using YuGiOhTrabalhoWindowsForms.Repositorio;
 using YuGiOhTrabalhoWindowsForms.Util;
 using YuGiOhTrabalhoWindowsForms.Entidade;
+using YuGiOhTrabalhoWindowsForms.Forms;
 
 namespace YuGiOhTrabalhoWindowsForms
 {
     public partial class MainMenuForm : Form
     {
         JogadorRepository repo;
+        DeckRepository repoDeck = new DeckRepository(DbUtil.ConnectionString);
 
         public MainMenuForm()
         {
@@ -15,6 +17,10 @@ namespace YuGiOhTrabalhoWindowsForms
             lblAviso.Text = "";
             lblJgdr.Text = "";
             numericUpDown1.Visible = false;
+            cmbBxDecks1.Visible = false;
+            lblDeck1.Visible = false;
+            cmbBxDecks2.Visible = false;
+            lblDeck2.Visible = false;
             repo = new JogadorRepository(DbUtil.ConnectionString);
             btnEntrarJgdr1.Text = "Entrar";
         }
@@ -50,14 +56,21 @@ namespace YuGiOhTrabalhoWindowsForms
                     textBox1.ReadOnly = true;
                     textBox2.Text = "";
                     label3.Visible = false;
+                    cmbBxDecks1.Visible = true;
+                    lblDeck1.Visible = true;
+
+                    List<string> decks = repoDeck.BuscarDecksPorJogador(textBox1.Text);
+
+                    for (int i = 0; i < decks.Count; i++)
+                    {
+                        cmbBxDecks1.Items.Add(decks[i]);
+                    }
 
                     if (btnEntrarJgdr1.Text == "Sair" && btnEntrarJgdr2.Text == "Sair")
                     {
                         lblJgdr.Text = "Jogador:";
                         numericUpDown1.Visible = true;
                     }
-
-                    textBox1.Enabled = false;
 
                 }
                 else
@@ -72,9 +85,13 @@ namespace YuGiOhTrabalhoWindowsForms
                 textBox1.Text = "";
                 label3.Visible = true;
                 textBox1.ReadOnly = false;
+                lblDeck1.Visible = false;
+                cmbBxDecks1.Visible = false;
 
                 lblJgdr.Text = "";
                 numericUpDown1.Visible = false;
+                cmbBxDecks1.Items.Clear();
+
             }
 
         }
@@ -99,6 +116,15 @@ namespace YuGiOhTrabalhoWindowsForms
                     textBox3.ReadOnly = true;
                     textBox4.Text = "";
                     label4.Visible = false;
+                    cmbBxDecks2.Visible = true;
+                    lblDeck2.Visible = true;
+
+                    List<string> decks = repoDeck.BuscarDecksPorJogador(textBox3.Text);
+
+                    for (int i = 0; i < decks.Count; i++)
+                    {
+                        cmbBxDecks2.Items.Add(decks[i]);
+                    }
 
                     if (btnEntrarJgdr1.Text == "Sair" && btnEntrarJgdr2.Text == "Sair")
                     {
@@ -118,9 +144,13 @@ namespace YuGiOhTrabalhoWindowsForms
                 textBox3.Text = "";
                 label4.Visible = true;
                 textBox3.ReadOnly = false;
+                lblDeck2.Visible = false;
+                cmbBxDecks2.Visible = false;
 
                 lblJgdr.Text = "";
                 numericUpDown1.Visible = false;
+                cmbBxDecks2.Items.Clear();
+
             }
 
         }
@@ -163,7 +193,17 @@ namespace YuGiOhTrabalhoWindowsForms
                 return;
             }
 
+            if (cmbBxDecks1.SelectedItem == null || cmbBxDecks2.SelectedItem == null)
+            {
+                MessageBox.Show("Ambos jogadores devem selecionar um deck.");
+                return;
+            }
 
+            string deck1 = cmbBxDecks1.SelectedItem.ToString();
+            string deck2 = cmbBxDecks2.SelectedItem.ToString();
+
+            BatalhaForm batalhaForm = new BatalhaForm(deck1, deck2);
+            batalhaForm.ShowDialog();
 
         }
     }

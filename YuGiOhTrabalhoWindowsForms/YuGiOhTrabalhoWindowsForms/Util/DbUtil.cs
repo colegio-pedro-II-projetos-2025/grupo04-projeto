@@ -9,10 +9,8 @@ namespace YuGiOhTrabalhoWindowsForms.Util
 {
     internal static class DbUtil
     {
-        public static string ConnectionString { get; } =
-            "server=br60.hostgator.com.br;database=joaola59_yugioh;uid=joaola59_usu_yugioh;pwd=TP!&T#3,z2dB;";
-        //"server=br60.hostgator.com.br;database=joaola59_yugioh;uid=joaola59_usu_yugioh;pwd=TP!&T#3,z2dB;"
-        //"server=localhost;database=joaola59_yugioh;uid=root;pwd=;"
+        public static string ConnectionString { get; } = "server=localhost;database=tcccarta;uid=root;pwd=;";
+        //public static string ConnectionString { get; } = "server=br60.hostgator.com.br;database=joaola59_yugioh;uid=joaola59_usu_yugioh;pwd=TP!&T#3,z2dB";
 
         public static int BuscarIdJogador(string nome)
         {

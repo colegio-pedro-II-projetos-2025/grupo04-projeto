@@ -1614,11 +1614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
+      "projectUniqueName": "E:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
       "projectName": "YuGiOhTrabalhoWindowsForms",
-      "projectPath": "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
+      "projectPath": "E:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms.csproj",
       "packagesPath": "C:\\Users\\lirat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lirat\\Downloads\\YuGiOhTrabalhoWindowsFormsBackup\\YuGiOhTrabalhoWindowsForms\\obj\\",
+      "outputPath": "E:\\DS\\YuGiOhTrabalhoWindowsForms\\YuGiOhTrabalhoWindowsForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lirat\\AppData\\Roaming\\NuGet\\NuGet.Config",

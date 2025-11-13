@@ -17,12 +17,17 @@ namespace YuGiOhTrabalhoWindowsForms.Entidade
         public string Efeito { get; set; }
         public int Limite { get; set; }
         public string Raridade { get; set; }
+        public string Modo { get; set; }
+        public bool Atacou { get; set; }
+        public bool PosicaoMudou { get; set; }
 
         public Carta ()
         {
             SizeMode = PictureBoxSizeMode.StretchImage;
             Width = 80;
             Height = 120;
+            Atacou = false;
+            PosicaoMudou = true;
         }
 
     }

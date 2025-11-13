@@ -118,28 +118,46 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="DaVinciWorkshop" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DaVinciWorkshop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="YuGiOhLogoSmall" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\YuGiOhLogoSmall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TextBox" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\TextBox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Back-ZX-Site" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Back-ZX-Site.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="simbolo-de-informacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\simbolo-de-informacao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SamuraiRemnantMapFgo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SamuraiRemnantMapFgo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="TextBox 316X73" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\TextBox 316X73.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="DaVinciWorkshop+Summon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\DaVinciWorkshop+Summon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="lupaBranca" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lupaBranca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="simbolo-de-informacao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\simbolo-de-informacao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-gray-creative-border2-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-gray-creative-border2-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="lupa" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lupa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="lupaBranca" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\lupaBranca.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="DaVinciWorkshop+Summon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DaVinciWorkshop+Summon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DaVinciWorkshop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DaVinciWorkshop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ButtonTransparentGray" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ButtonTransparentGray.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ButtonTransparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ButtonTransparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TextBox" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TextBox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="FieldCardBackGround" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\FieldCardBackGround.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

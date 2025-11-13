@@ -47,6 +47,10 @@
             pictureBox1 = new PictureBox();
             numericUpDown1 = new NumericUpDown();
             lblJgdr = new Label();
+            lblDeck1 = new Label();
+            cmbBxDecks1 = new ComboBox();
+            lblDeck2 = new Label();
+            cmbBxDecks2 = new ComboBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
@@ -258,12 +262,60 @@
             lblJgdr.TabIndex = 24;
             lblJgdr.Text = "Jogador:";
             // 
+            // lblDeck1
+            // 
+            lblDeck1.AutoSize = true;
+            lblDeck1.BackColor = Color.Transparent;
+            lblDeck1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblDeck1.Location = new Point(15, 175);
+            lblDeck1.Name = "lblDeck1";
+            lblDeck1.Size = new Size(60, 25);
+            lblDeck1.TabIndex = 25;
+            lblDeck1.Text = "Deck:";
+            // 
+            // cmbBxDecks1
+            // 
+            cmbBxDecks1.BackColor = Color.DarkGoldenrod;
+            cmbBxDecks1.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbBxDecks1.ForeColor = Color.Black;
+            cmbBxDecks1.FormattingEnabled = true;
+            cmbBxDecks1.Location = new Point(79, 172);
+            cmbBxDecks1.Name = "cmbBxDecks1";
+            cmbBxDecks1.Size = new Size(150, 33);
+            cmbBxDecks1.TabIndex = 26;
+            // 
+            // lblDeck2
+            // 
+            lblDeck2.AutoSize = true;
+            lblDeck2.BackColor = Color.Transparent;
+            lblDeck2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblDeck2.Location = new Point(1011, 180);
+            lblDeck2.Name = "lblDeck2";
+            lblDeck2.Size = new Size(60, 25);
+            lblDeck2.TabIndex = 27;
+            lblDeck2.Text = "Deck:";
+            // 
+            // cmbBxDecks2
+            // 
+            cmbBxDecks2.BackColor = Color.DarkGoldenrod;
+            cmbBxDecks2.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbBxDecks2.ForeColor = Color.Black;
+            cmbBxDecks2.FormattingEnabled = true;
+            cmbBxDecks2.Location = new Point(1071, 180);
+            cmbBxDecks2.Name = "cmbBxDecks2";
+            cmbBxDecks2.Size = new Size(150, 33);
+            cmbBxDecks2.TabIndex = 28;
+            // 
             // MainMenuForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(1239, 593);
+            Controls.Add(cmbBxDecks2);
+            Controls.Add(lblDeck2);
+            Controls.Add(cmbBxDecks1);
+            Controls.Add(lblDeck1);
             Controls.Add(lblJgdr);
             Controls.Add(numericUpDown1);
             Controls.Add(textBox4);
@@ -310,5 +362,9 @@
         private PictureBox pictureBox1;
         private NumericUpDown numericUpDown1;
         private Label lblJgdr;
+        private Label lblDeck1;
+        private ComboBox cmbBxDecks1;
+        private Label lblDeck2;
+        private ComboBox cmbBxDecks2;
     }
 }

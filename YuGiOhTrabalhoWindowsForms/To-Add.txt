@@ -1,3 +1,23 @@
 Knight/Extra Classes
 Case-sensitive
-Disable name 
+Criar deck Limpa lista de cartas
+Delete deck
+CmbBox vazia
+Visual Cemiterio/Deck
+Não mostrar atk/def caso magia/armadilha (tooltip desc)
+Poder -> Atk
+Local/Online
+N deixar jgdr 1 baixar no campo jgdr 2
+ClientSize
+Tamanho Cartas
+Atk/Def adaptável na img
+BtnHUd
+ArrastarMagia até direita pra ativar
+Click muda posição de batalha
+For turno
+
+Tinta
+Dsn
+Lb
+Quadro
+Mahjong Soul

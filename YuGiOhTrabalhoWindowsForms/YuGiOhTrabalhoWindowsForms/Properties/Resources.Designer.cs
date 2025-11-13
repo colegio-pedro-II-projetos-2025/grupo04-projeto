@@ -63,6 +63,36 @@ namespace YuGiOhTrabalhoWindowsForms.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Back_ZX_Site {
+            get {
+                object obj = ResourceManager.GetObject("Back-ZX-Site", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ButtonTransparent {
+            get {
+                object obj = ResourceManager.GetObject("ButtonTransparent", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ButtonTransparentGray {
+            get {
+                object obj = ResourceManager.GetObject("ButtonTransparentGray", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap DaVinciWorkshop {
             get {
                 object obj = ResourceManager.GetObject("DaVinciWorkshop", resourceCulture);
@@ -83,6 +113,16 @@ namespace YuGiOhTrabalhoWindowsForms.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap FieldCardBackGround {
+            get {
+                object obj = ResourceManager.GetObject("FieldCardBackGround", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap lupa {
             get {
                 object obj = ResourceManager.GetObject("lupa", resourceCulture);
@@ -96,6 +136,26 @@ namespace YuGiOhTrabalhoWindowsForms.Properties {
         internal static System.Drawing.Bitmap lupaBranca {
             get {
                 object obj = ResourceManager.GetObject("lupaBranca", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_gray_creative_border2_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-gray-creative-border2-removebg-preview", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SamuraiRemnantMapFgo {
+            get {
+                object obj = ResourceManager.GetObject("SamuraiRemnantMapFgo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
